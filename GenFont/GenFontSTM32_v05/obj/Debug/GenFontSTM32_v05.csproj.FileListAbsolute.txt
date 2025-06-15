@@ -1,0 +1,10 @@
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.csproj.AssemblyReference.cache
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.Properties.Resources.resources
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.csproj.GenerateResource.cache
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.csproj.CoreCompileInputs.cache
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\EnhancedFontBitmapGenerator.MainForm.resources
+D:\WS\GenFont\GenFontSTM32_v05\bin\Debug\GenFontSTM32_v05.exe.config
+D:\WS\GenFont\GenFontSTM32_v05\bin\Debug\GenFontSTM32_v05.exe
+D:\WS\GenFont\GenFontSTM32_v05\bin\Debug\GenFontSTM32_v05.pdb
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.exe
+D:\WS\GenFont\GenFontSTM32_v05\obj\Debug\GenFontSTM32_v05.pdb
